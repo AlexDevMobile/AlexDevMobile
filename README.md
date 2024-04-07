@@ -1,3 +1,6 @@
+<img width="734" alt="Screenshot 2024-04-06 at 8 38 45 p m" src="https://github.com/AlexDevMobile/AlexDevMobile/assets/23038676/a490419c-23f9-47a9-acdc-ae4370850e21">
+
+
 # Hello, world! 👋
 
 Welcome to my GitHub profile! I'm Alex (or Lemus), a passionate mobile developer with a love for innovation and creating impactful applications. My goal is to blend creativity, functionality, and performance in every project I undertake.
